@@ -50,3 +50,6 @@ The app works 100% offline and syncs automatically when internet is available.
 - Auto-sync when online → Uploads changes to cloud
 - Conflict-free → Append-only design prevents data conflicts
 - Multi-device ready → Changes sync across all devices
+
+
+# No private api and anon KEYs are displayed. Placeholders are used
