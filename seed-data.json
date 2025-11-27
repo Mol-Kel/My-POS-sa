@@ -1,1 +1,94 @@
-
+{
+  "items": [
+    {
+      "name": "Kota Classic",
+      "price": 25.00,
+      "sku": "KOTA001",
+      "barcode": "",
+      "initial_stock": 0,
+      "category": "fast-food",
+      "mode": "fastfood"
+    },
+    {
+      "name": "Kota Deluxe",
+      "price": 35.00,
+      "sku": "KOTA002",
+      "barcode": "",
+      "initial_stock": 0,
+      "category": "fast-food",
+      "mode": "fastfood"
+    },
+    {
+      "name": "Bunny Chow",
+      "price": 30.00,
+      "sku": "BUNNY001",
+      "barcode": "",
+      "initial_stock": 0,
+      "category": "fast-food",
+      "mode": "fastfood"
+    },
+    {
+      "name": "Chips",
+      "price": 15.00,
+      "sku": "CHIPS001",
+      "barcode": "",
+      "initial_stock": 0,
+      "category": "fast-food",
+      "mode": "fastfood"
+    },
+    {
+      "name": "Cold Drink 500ml",
+      "price": 12.00,
+      "sku": "DRINK001",
+      "barcode": "",
+      "initial_stock": 0,
+      "category": "beverage",
+      "mode": "both"
+    },
+    {
+      "name": "Sunlight 400g",
+      "price": 30.00,
+      "sku": "SUN400",
+      "barcode": "6001087351195",
+      "initial_stock": 50,
+      "category": "household",
+      "mode": "spaza"
+    },
+    {
+      "name": "White Star Maize Meal 2.5kg",
+      "price": 45.00,
+      "sku": "WS2500",
+      "barcode": "6001087240574",
+      "initial_stock": 30,
+      "category": "food",
+      "mode": "spaza"
+    },
+    {
+      "name": "Albany Brown Bread",
+      "price": 14.50,
+      "sku": "ALB700",
+      "barcode": "6001087227247",
+      "initial_stock": 20,
+      "category": "food",
+      "mode": "spaza"
+    },
+    {
+      "name": "Milk 1L",
+      "price": 18.00,
+      "sku": "MILK1L",
+      "barcode": "6001087228916",
+      "initial_stock": 15,
+      "category": "dairy",
+      "mode": "spaza"
+    },
+    {
+      "name": "Sugar 2kg",
+      "price": 35.00,
+      "sku": "SUGAR2",
+      "barcode": "6001087229012",
+      "initial_stock": 40,
+      "category": "food",
+      "mode": "spaza"
+    }
+  ]
+}
